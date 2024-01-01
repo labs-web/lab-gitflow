@@ -9,6 +9,13 @@
     - le fichier présentation
 - Réalisation d'un exemple sur le dépôt prototype-gitflow
 
+## Commandes 
+
+````bash
+git flow init
+````
+
+
 ## Critère de performance 
 - Utilisation de gitflow extension
 - Installation Git Graph 
