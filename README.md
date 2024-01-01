@@ -13,7 +13,15 @@
 
 ````bash
 git flow init
+git flow feature start feature_branche
 ````
+
+## Présentation de notre Workflow 
+
+- main
+- develop
+- feature
+- fix
 
 
 ## Critère de performance 
@@ -24,4 +32,4 @@ git flow init
   - Serhioromano.vscode-gitflow
 
 ## Références 
-- https://marketplace.visualstudio.com/items?itemName=Serhioromano.vscode-gitflow
+- https://danielkummer.github.io/git-flow-cheatsheet/index.fr_FR.html
