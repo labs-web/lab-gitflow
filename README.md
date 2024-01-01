@@ -21,7 +21,6 @@ git flow feature start feature_branche
 - main
 - develop
 - feature
-- fix
 
 
 ## Critère de performance 
