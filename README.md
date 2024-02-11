@@ -1,34 +1,29 @@
-# lab-gitflow
+#  
 
-## Travail à faire 
+- Référence :   
 
-- Exposé sur git-flow
-  - validation avec le formateur avant d'envoir de pullrequest
-  - livrable 
-    - fichier readme.md qui contient le lien l'exposé
-    - le fichier présentation
-- Réalisation d'un exemple sur le dépôt prototype-gitflow
+ 
 
-## Commandes 
+## Backlog 
 
-````bash
-git flow init
-git flow feature start feature_branche
-````
+Le backlog est une liste ordonées des tâches 
 
-## Présentation de notre Workflow 
+- **chapitre** 
+- **exposé** 
+- **feature** 
+- **sous-tâche** 
+- **thème** 
+## Livrables 
 
-- main
-- develop
-- feature
+ 
 
-
-## Critère de performance 
-- Utilisation de gitflow extension
-- Installation Git Graph 
-    - mhutchie.git-graph
-- Install : Git Flow vs extension
-  - Serhioromano.vscode-gitflow
-
+- /Backlog 
+  - Backlog 
+- /docs 
+  - Documentation 
 ## Références 
-- https://danielkummer.github.io/git-flow-cheatsheet/index.fr_FR.html
+
+ 
+
+- [Autoformation](#) 
+
